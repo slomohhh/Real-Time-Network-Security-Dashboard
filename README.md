@@ -9,7 +9,7 @@ Built by **Mohammad Khan**
 
 ## What it does
 
-NetSentinel ingests raw network packets (or simulated traffic in demo mode), runs them through a detection engine, and exposes the results through a REST API consumed by a React dashboard.
+Flotrusion ingests raw network packets (or simulated traffic in demo mode), runs them through a detection engine, and exposes the results through a REST API consumed by a React dashboard.
 
 Three anomaly detectors run on every tick:
 
