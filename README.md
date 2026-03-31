@@ -1,9 +1,9 @@
-# NetSentinel
+# Flotrusion
 
 **Real-time network security monitoring dashboard.**  
 Captures live packet traffic, classifies protocols, detects anomalies, and surfaces alerts — all through a clean browser interface that updates every second.
 
-Built by **Mohammad Khan** · [LinkedIn](https://linkedin.com/in/your-profile) · [Live Demo](https://your-demo-url.vercel.app)
+Built by **Mohammad Khan** 
 
 ---
 
@@ -60,7 +60,7 @@ No database dependency — history lives in a deque ring buffer in memory. Swap 
 ## Project structure
 
 ```
-netsentinel/
+flotrusion/
 ├── backend/
 │   ├── app/
 │   │   ├── main.py              # FastAPI app, lifespan, middleware
@@ -281,9 +281,6 @@ Explicit, scoped class names make the component styling self-documenting and eli
 ## Author
 
 **Mohammad Khan**  
-Computer Science, Southern Illinois University Edwardsville (May 2024)  
-📧 mofaze678@gmail.com · 📍 Fairview Heights, IL  
-[LinkedIn](https://linkedin.com/in/your-profile) · [GitHub](https://github.com/your-username)
 
 ---
 
