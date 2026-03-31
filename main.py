@@ -1,5 +1,5 @@
 """
-NetSentinel — Real-Time Network Security Dashboard
+Flotrusion — Real-Time Network Security Dashboard
 Backend API
 
 Author: Mohammad Khan
